@@ -1,5 +1,3 @@
-# DeVILSona-VR-Capstone
-
 # DeVILSona — VR Customer Archetype Learning Platform
 
 DeVILSona is an immersive virtual reality learning platform developed as an
