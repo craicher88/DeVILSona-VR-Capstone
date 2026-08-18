@@ -111,14 +111,6 @@ Blueprint gameplay logic, objective and progression systems, HUD and
 instructional UI, lighting, audio, visual effects, dialogue behavior, and final
 integration.
 
-### Scenario Screenshots
-
-![Driving Scenario - Enter Vehicle](assets/screenshots/driving-objective-door.png)
-
-![Driving Scenario - Seatbelt](assets/screenshots/driving-objective-seatbelt.png)
-
-![Driving Scenario - Headlights](assets/screenshots/driving-objective-headlights.png)
-
 ## Character and Dialogue Systems
 
 An important part of the project was making Military Veteran Mike feel like a
