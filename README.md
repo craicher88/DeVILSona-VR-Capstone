@@ -253,11 +253,15 @@ and future development.
 
 ## Project Links
 
+- [Original Figma Prototype](https://www.figma.com/proto/Bdi6wjxaKxjFydbq6f0LLl/FSE100-VR-Customer-Archetypes-Updated-Sprint-2?node-id=0-1&t=I8sGDLra2nKcCq5p-1)
 - [Official DeVILSona Documentation](https://fse100capstone.github.io/DeVILSona-docs/)
   - [Driving Scenario — Developer Guide](https://fse100capstone.github.io/DeVILSona-docs/developer-guide/driving-scenario-overview/#educator-sponsor-guide)
   - [Driving Scenario — Student/User Guide](https://fse100capstone.github.io/DeVILSona-docs/user-guide/scenario2-drivingtoajobinterview/#developer-knowledge-base)
 - [Personal Demo — Interview + Driving Scenario](https://www.youtube.com/watch?v=BZ-0NvRNGX0)
 - [ASU Capstone Showcase](https://showcase.asucapstone.com/survey/10552)
+
+The original Figma prototype shows the early interaction flow and interface
+concepts I created before the experience was implemented in Unreal Engine.
 
 The official DeVILSona documentation is the complete public documentation site
 for the project, covering system architecture, implementation, deployment,
