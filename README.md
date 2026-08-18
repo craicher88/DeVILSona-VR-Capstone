@@ -254,12 +254,16 @@ and future development.
 ## Project Links
 
 - [Official DeVILSona Documentation](https://fse100capstone.github.io/DeVILSona-docs/)
+  - [Driving Scenario — Developer Guide](https://fse100capstone.github.io/DeVILSona-docs/developer-guide/driving-scenario-overview/#educator-sponsor-guide)
+  - [Driving Scenario — Student/User Guide](https://fse100capstone.github.io/DeVILSona-docs/user-guide/scenario2-drivingtoajobinterview/#developer-knowledge-base)
 - [Personal Demo — Interview + Driving Scenario](https://www.youtube.com/watch?v=BZ-0NvRNGX0)
 - [ASU Capstone Showcase](https://showcase.asucapstone.com/survey/10552)
 
-The official documentation contains additional information about the project's
-architecture, implementation, deployment, individual systems, troubleshooting,
-and development process.
+The official DeVILSona documentation is the complete public documentation site
+for the project, covering system architecture, implementation, deployment,
+troubleshooting, user guidance, and development details. The two Driving
+Scenario links above point directly to pages within that documentation that
+cover the scenario I designed and developed.
 
 The personal demo shows me using the final Windows desktop build with a Meta
 Quest headset connected through Meta Horizon Link, including an interview with
