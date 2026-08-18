@@ -45,6 +45,13 @@ of daily life.
 The broader DeVILSona platform combined virtual reality, real-time AI dialogue,
 MetaHuman animation, interactive scenarios, and cloud-supported infrastructure.
 
+### Interview and Scenario Selection
+
+The main interview environment allows students to speak with Mike and then
+transition into interactive scenarios based on his daily-life challenges.
+
+![Military Veteran Mike interview environment and scenario selection](assets/screenshots/interview.png)
+
 ## My Role
 
 **Scenario Design, VR Gameplay Systems, and Character Integration**
@@ -110,6 +117,34 @@ Development included the complete scenario environment, vehicle interactions,
 Blueprint gameplay logic, objective and progression systems, HUD and
 instructional UI, lighting, audio, visual effects, dialogue behavior, and final
 integration.
+
+### Scenario Environment
+
+The scenario begins outside Mike's home and transitions from preparation into a
+guided drive through the environment.
+
+![Driving scenario environment](assets/screenshots/driving-scenario-environment.png)
+
+### Interactive Objective System
+
+The player completes a sequence of guided interactions using VR controls. The
+HUD communicates the current objective and provides instructions for each
+interaction.
+
+![Objective 1 - Open the driver's-side door](assets/screenshots/driving-scenario-objective1.png)
+
+Later objectives combine vehicle controls, environmental conditions, and
+instructional feedback while the player is actively driving.
+
+![Objective 7 - Vehicle controls during the drive](assets/screenshots/driving-scenario-objective7.png)
+
+### Scenario Completion
+
+After completing the full sequence of objectives and reaching the interview
+destination, the player is presented with a completion screen and options to
+return to the main menu or continue to another scenario.
+
+![Driving scenario completion screen](assets/screenshots/scenario2-complete-screen.png)
 
 ## Character and Dialogue Systems
 
@@ -226,9 +261,13 @@ The official documentation contains additional information about the project's
 architecture, implementation, deployment, individual systems, troubleshooting,
 and development process.
 
-The personal demo shows me using the final Windows desktop build with a Meta Quest headset connected through Meta Horizon Link, including an interview with Military Veteran Mike and a complete playthrough of the Driving to a Job Interview scenario. 
+The personal demo shows me using the final Windows desktop build with a Meta
+Quest headset connected through Meta Horizon Link, including an interview with
+Military Veteran Mike and a complete playthrough of the **Driving to a Job
+Interview** scenario.
 
-The ASU Capstone Showcase page contains the team's official project overview and showcase video.
+The ASU Capstone Showcase page contains the team's official project overview
+and showcase video.
 
 ## Source Code
 
